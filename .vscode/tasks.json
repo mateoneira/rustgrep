@@ -3,7 +3,7 @@
 	"tasks": [
 		{
 			"type": "shell",
-			"command": "cargo run -- test poem.txt",
+			"command": "cargo run -- who poem.txt",
 			"problemMatcher": [
 				"$rustc"
 			],
